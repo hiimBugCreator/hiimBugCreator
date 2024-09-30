@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiimBugCreator
 - 👀 I’m interested in coding, gaming
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity/ iOS
 - 💞️ I’m looking to mobile job
 - 📫 How to reach me? Let contact me via loc.vuhuyvn@gmail.com
 
